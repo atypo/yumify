@@ -1,0 +1,10 @@
+export declare const atx_closed = "atx_closed";
+export declare const underlined = "underlined";
+export declare const spaces = "spaces";
+export declare const backslash = "backslash";
+export declare const asterisk = "*";
+export declare const underscore = "_";
+export declare const convertHeadingRegex: RegExp;
+export declare const lineBeginningRegex: RegExp;
+export declare const whitespaceRegex: RegExp;
+export declare const htmlHeadingRegex: RegExp;
